@@ -9,6 +9,12 @@ Aerospace Robotics Competition Tutorials!
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
+   intro
+   fundamentals
+   software
+   hardware
+   integration
+   team dynamics
 
 
 

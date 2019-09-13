@@ -7,11 +7,11 @@ Aerospace Robotics Competition Tutorials!
 =========================================
 
 .. toctree::
-   :maxdepth: 2
-   
-   introduction <introduction>
-   Fundamentals
-   Software
+   :maxdepth: 3
+
+   Introduction <introduction>
+   Fundamentals <fundamentals>
+   Software <software>
    Hardware
    Integration
    Team Dynamics

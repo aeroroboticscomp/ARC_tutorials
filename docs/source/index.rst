@@ -7,8 +7,7 @@ Aerospace Robotics Competition Tutorials!
 =========================================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Contents:
+   :maxdepth: 2
    introduction
    Fundamentals
    Software
@@ -18,9 +17,11 @@ Aerospace Robotics Competition Tutorials!
 
 
 
-Indices and tables
+Welcome!
 ==================
 
+Please use the sidebar to navigate to information needed
 * :ref:`genindex`
+
 * :ref:`modindex`
 * :ref:`search`

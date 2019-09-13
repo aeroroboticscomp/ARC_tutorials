@@ -6,23 +6,23 @@
 Aerospace Robotics Competition Tutorials!
 =========================================
 
+Aerospace Robotics Competition is a competitive program designed to teach high school students about aerospace engineering principles through designing, building, programming, and flying UAVs. The competition is structured as a combination of technical communication, student piloted flight, and autonomous flight through which students learn team leadership, hands-on vehicle design and and manufacturing, autonomous programming, and execution of design of experiments. With a multi-tiered mentor structure, students work with aerospace university students as well as industry professionals to be supported through the competition challenges and grow their network.
+
+This website was built to collect all the information/knowledge/experience needed to help teams run/build their team and drones. The below topics are covered:
+
 .. toctree::
    :maxdepth: 3
 
    Introduction <introduction>
    Fundamentals <fundamentals>
    Software <software>
-   Hardware
-   Integration
-   Team Dynamics
+   Hardware <hardware>
+   Integration <integration>
+   Team Dynamics <team_dynamics>
 
 ..
 
 
-Welcome!
-==================
-
-Please use the sidebar to navigate to information needed
 .. * :ref:`genindex`
 
 .. * :ref:`modindex`

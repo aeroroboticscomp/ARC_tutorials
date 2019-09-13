@@ -9,7 +9,7 @@ Aerospace Robotics Competition Tutorials!
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
-   Introduction
+   introduction
    Fundamentals
    Software
    Hardware

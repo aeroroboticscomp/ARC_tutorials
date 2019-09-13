@@ -17,11 +17,11 @@ Aerospace Robotics Competition Tutorials!
 
 
 
-Welcome!
-==================
+.. Welcome!
+.. ==================
 
-Please use the sidebar to navigate to information needed
-* :ref:`genindex`
+.. Please use the sidebar to navigate to information needed
+.. * :ref:`genindex`
 
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`modindex`
+.. * :ref:`search`

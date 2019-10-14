@@ -15,6 +15,7 @@ This website was built to collect all the information/knowledge/experience neede
 
    Introduction <introduction>
    Fundamentals <fundamentals>
+   Aerospace Sciences <aero>
    Software <software>
    Hardware <hardware>
    Autonomy <autonomy>

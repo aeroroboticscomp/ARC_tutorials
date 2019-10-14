@@ -17,6 +17,7 @@ This website was built to collect all the information/knowledge/experience neede
    Fundamentals <fundamentals>
    Software <software>
    Hardware <hardware>
+   Autonomy <autonomy>
    Integration <integration>
    Team Dynamics <team_dynamics>
 

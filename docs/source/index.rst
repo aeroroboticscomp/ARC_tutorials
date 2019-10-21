@@ -17,10 +17,14 @@ This website was built to collect all the information/knowledge/experience neede
    Fundamentals <fundamentals>
    Aerospace Sciences <aero>
    Software <software>
+   Programming <algo>
    Hardware <hardware>
    Autonomy <autonomy>
    Integration <integration>
    Team Dynamics <team_dynamics>
+   Safety <safety>
+   Flying/Testing <flite_test>
+   Contact <contact>
 
 ..
 

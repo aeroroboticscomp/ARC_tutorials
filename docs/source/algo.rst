@@ -20,22 +20,28 @@ Algorithms
 **********
 Algorithms are defined as a set of instructions that allows the computer to accomplish its goal. These sets can be vary from very complex algorithms such as machine learning to AI or can be as simple as a calculation of a formula.
 
-To demonstrate what an algorithm, we're going to use a cake receipe as an example.  
+A set of instructions can be broken down into 3 different components. All instructions are formed by a combination of these three. The different types of instructions:
 
-Different types of instructions:
+* Command: This is pretty self explanatory as it forms is what really executes the instructions. This is one of the simplest form of a command
+* Conditional: A conditional allows commands to occur only if certain conditions are fulfilled. 
+* Loops: This construct allows command(s) to be carried out multiple times in a row. The number of times is dependent on how the loop is set up. There are two types of loops: for loops and while loops. In for loops, you specify how many times the command should be repeated. While loops allow you to combine both a conditional and a loop: the command(s) will continue to be executed until a certain condition is met or a condition is not being met.
 
-* Do something/command
-* Conditional
-* Loops
+These three combined can form an algorithm. Let's look at an example: a recipe. 
+In a recipe, you have a set of instructions that you have to follow. For example, if the recipe calls for two eggs to be added into a bowl, that would be an example of a command. A conditional could be that if the dough is not clumping as much it should be, add water. The condition here is checking the clumping-ness of a dough and the action if the condition is not satisfied as adding the water. An example of a loop is putting something into the oven until it rises. Although you may not explicitly be continually adding stuff into the oven (keeping say the batch in the oven could itself be a command), the while loop conditional can be the status of how much the batch has "risen". 
 
+When developing an algorithm, the primary strategy is to see if you can apply these 3 components in certain ways that allow you to accomplish the task that you want carried out by the computer program. Thinking through how these components can be combined and taking advantage of the pros and cons will allow great algorithms to be developed. 
 
 Software Engineering
 ********************
-Software engineering is at its core **the *TRANSLATION* of instructions to something a computer can understand**. Once the set of instructions or algorithms is defined above, the usage of computer languages is relatively straight forward. 
+Software engineering is at its core the **translation of instructions to something a computer can understand**. Once the set of instructions or algorithms is defined above, the usage of computer languages is relatively straight forward. 
 
 * Objects
 * Functions
 * Data Structures
+
+Version Control
+------
+
 
 Resources
 *************
@@ -43,22 +49,29 @@ Below are some resources that should be helpful for teams to fully learn how to 
 
 Intro
 -------
-* Codeacademy
-* Scratch
+* `Codeacademy <https://www.codecademy.com/>`_
+
+* `Scratch <https://scratch.mit.edu/>`_
+
+* `Learn Python <https://www.learnpython.org/>`_
+
 
 Intermediate
 --------
-* Dive into Python
+* `Dive into Python <https://diveintopython3.problemsolving.io/>`_
+
 
 
 
 Advanced
 -----------
-* Introduction to Algorithms by Cormen
-* EECS 281
-* EECS 280
-* MIT OCW
+* `Introduction to Algorithms by Cormen <http://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf>`_
+
+* `MIT OCW <https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/>`_
+
 
 
 2019-2020 Competition Specific Material
 *****************
+
+In the Github link 

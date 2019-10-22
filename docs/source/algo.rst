@@ -8,7 +8,7 @@ Programming is needed to accomplish the tasks to compete in the autonomous porti
 
 In a nutshell, computer programming is developing a set of instructions and encoding them into the computer such that the computer can carry out the instructions. The set of instructions or algorithms dictate how the computer will carry them out, and the translation/encoding makes the instructions understandable to the computer. From the description given above, 
 
-Many people often fall into the trap of diving right into the actual coding of the computer rather than firmly developing the set of instructions or algorithms that it wants the computer program to execute. This is often times a trap as the programmer will most likely end up spending more time programming if they dove right into the coding. The process of programming compared to someone who spends some upfront time to fully define the instructions to which you want the computer or system to carry out. 
+Many people often fall into the trap of diving right into the actual coding of the computer rather than firmly developing the set of instructions or algorithms that it wants the computer program to execute. This is often times a trap as the programmer will most likely end up spending more time programming if they dove right into the coding compared to someone who spends some upfront time to fully define the instructions to which they want the computer or system to carry out. 
 
 This section is divided into two sections: Algorithms and Software Engineering. The algorithms section is intended to help teams figure out how to properly fully define the instruction set they want the computer to carry out. The Software Engineering portion will dive into the the coding of the computer. 
 

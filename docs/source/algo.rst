@@ -35,20 +35,60 @@ Software Engineering
 ********************
 Software engineering is at its core the **translation of instructions to something a computer can understand**. Once the set of instructions or algorithms is defined above, the usage of computer languages is relatively straight forward. 
 
-* Objects/Data Structures
-* Functions
-* Recursion
+We will not go over the specifics of how to program here; the additional resources provided will do  a much better job than what we can do here. However, some key points and tools will be provided here so that teams can get started on programming as well as some tips.
+
+Programming Languages
+----------
+Similar to how there are many languages that we humans can use to talk to one another, there are also many different computer languages that allow humans to program computers. Below are some examples. For this competition, we highly recommend the use of Python due to its extensive support, usefulness, and simplicity. Additional resources to learn Python are given in the additional resources section.
+
+* Python: https://www.python.org/
+* C++: http://www.cplusplus.com/
+* Java: https://www.java.com/en/
+* Perl: https://www.perl.org/
+* Fortran: https://www.fortran.com/
+* MATLAB / Octave: https://www.gnu.org/software/octave/
+
+From this point on, we will assume that the team will be programming in Python. 
+
+
+Compilers/IDEs/Editors
+----------
+Code is a human-readable version of a set of instructions that you want to give to a computer. However, the computer cannot read code; it needs to be converted or "compiled" to a format that computers can. There are two ways we can do it: interpreters and compilers. Interpreters are computer programs designed to read line by line your computer code and send the computer the translation line by line. Compilers on the other hand convert your entire script into something machine-readable. The execution of that program is done later and in another process. Python is an example programming language that is interpreted, and C++ is an example of a programming language that is compiled.
+
+Many computer applications called Integrated Development Environemnt (IDE) /Editors exist to help with coding/compiling/running process. Below are some great examples that we recommend teams use to help with their coding:
+
+* `VS Code <https://code.visualstudio.com/>`_
+* `Sublime Text <https://www.sublimetext.com/>`_
+* `Atom <https://atom.io/>`_
+* `PyCharm <https://www.jetbrains.com/pycharm/>`_
+
+Open Source/Libraries
+----------
+One of the great ideas that the computer science community supports is the idea of open source software/code. The sharing of code that anyone has developed has created a positive reinforcement cycle that allows more advanced applications to be created without everyone having to start from scratch. Computer languages have adopted the idea through the creating of software libraries. Libraries are code that some third party has made that can be used for your own purposes. One of the biggest strengths of Python is the extensive development of software libraries that allow programmers to use Python to do things like manage radios to machine learning. In fact, the autopilot software was created through open source code! We've listed a couple libraries that may be of interest to teams:
+
+* `matplotlib <https://matplotlib.org/>`_
+* `scipy <https://www.scipy.org/>`_
+* `numpy <https://numpy.org/>`_
+* `dronekit <https://dronekit.io/>`_
+* `arducopter <http://ardupilot.org/copter/>`_
+
 
 
 Version Control
 ------
 When you are writing code, saving often is a good way to make sure that your progress isn't lost. However, what if you decided to try something, but it didn't work out the way you had hoped to? Version control will allow you to revert back to not just what you saved previously, but every version that you saved! That way, you can go back to any version of code that you had previously. `Git <https://git-scm.com/>`_ (the computer version), `Github <https://github.com/>`_ ,  and `Gitlab <https://about.gitlab.com/>`_ (both web based versions) are primary examples of easy to use version control software. For help in setting version control up as well as a better introduction, https://try.github.io/ should help.
 
+Debugging Tips
+---------
+Coming soon!
+
+
+
 Best Practices
 -------
-1. Use version control
-2. Test often and early
-3. Plan out your code structure beforehand
+1. Use version control: This will allow teams to manage their code and allow different people to work on different parts at the same time. 
+2. Test often and early. Don't wait til you're "done" to test out your code! There may be some bug in the beginning that you will need to take care of that may affect the rest of the code! Find that bug early before moving on! 
+3. Plan out your code structure beforehand. This will help save time and reduce errors as you move along coding.
 4. Use comments! Document your code so that other people who read it can understand what you are trying to do.
 
 
@@ -70,6 +110,8 @@ Intermediate
 --------
 * `Dive into Python <https://diveintopython3.problemsolving.io/>`_
 
+* `stack overflow <https://stackoverflow.com/>`_
+
 
 
 
@@ -84,4 +126,4 @@ Advanced
 2019-2020 Competition Specific Material
 *****************
 
-In the Github link 
+Coming soon!

@@ -3,7 +3,7 @@ Kit Hardware
 
 This is a brief run-down on the components that will be found when you open the kit box.
 
-.. figure:: source/Pictures/unwrapped.jpg
+.. figure:: ../source/Pictures/unwrapped.jpg
 
 n
 

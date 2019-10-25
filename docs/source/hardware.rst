@@ -3,8 +3,8 @@ Kit Hardware
 
 This is a brief run-down on the components that will be found when you open the kit box.
 
-.. image:: unwrapped.jpg
-   :align: center
+.. image:: Pictures/unwrapped.jpg
+
 
 
 Autopilot/Radios/Electronics
@@ -12,8 +12,8 @@ Autopilot/Radios/Electronics
 
 Inside the kit, there are two sets of autopilots, a transmitter/receiver combo, two GPS units, and 900MHz telemetry radio system. The two autopilots are the Pixhawk and the APM 2.8. Because of the more delicate nature of the Pixhawk as well as its GPS unit, both of them and the 900MHz telemetry radios have been placed into the transmitter/receiver box to ensure that they are not damaged upon shipping.
 
-.. image:: radio-pixhawk.jpg
-   :align: center
+.. image:: Pictures/radio-pixhawk.jpg
+
 
 Frame
 ********
@@ -30,9 +30,10 @@ Propellers
 ESC
 ********
 
+
 Batteries
 ********
-The kit provides with a team with two 2200mAh 3C batteries as well as a battery charger. The batteries should provide two 
+The kit provides with a team with two 2200mAh 3C batteries as well as a battery charger. The batteries should provide approximately 10 minutes of flight. Teams are allowed to buy their own larger batteries if they prefere.
 
 
 

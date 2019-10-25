@@ -4,7 +4,7 @@ Programming
 Introduction
 *********
 
-Programming is needed to accomplish the tasks to compete in the autonomous portion of the competition.
+Programming is needed to accomplish the tasks to compete in the autonomous portion of the competition. We will provide a very *brief* overview of what programming is in a nutshell. **Please refer to the additional resources for actual coursework, this page only serves as a brief overview.**
 
 In a nutshell, computer programming is developing a set of instructions and encoding them into the computer such that the computer can carry out the instructions. The set of instructions or algorithms dictate how the computer will carry them out, and the translation/encoding makes the instructions understandable to the computer. From the description given above, 
 
@@ -22,8 +22,8 @@ Algorithms are defined as a set of instructions that allows the computer to acco
 
 A set of instructions can be broken down into 3 different components. All instructions are formed by a combination of these three. The different types of instructions:
 
-* Command: This is pretty self explanatory as it forms is what really executes the instructions. This is one of the simplest form of a command
-* Conditional: A conditional allows commands to occur only if certain conditions are fulfilled. 
+* Command: This is pretty self explanatory as it forms is what really executes the instructions. This is one of the simplest form of an algorithm as it essentially tells the computer specifically what action to take.
+* Conditional: A conditional allows commands to occur only if certain conditions are fulfilled. Most often called if/else statements, a computer will run a command defined in the if portion of the code if the condition is satisfied; otherwise, it will run the else statements. There also exists if/elseif/else where you can define multiple conditions to check for when the computer is deciding what to do. If there are many different conditions you want to check, a "switch" statement may be more useful. 
 * Loops: This construct allows command(s) to be carried out multiple times in a row. The number of times is dependent on how the loop is set up. There are two types of loops: for loops and while loops. In for loops, you specify how many times the command should be repeated. While loops allow you to combine both a conditional and a loop: the command(s) will continue to be executed until a certain condition is met or a condition is not being met.
 
 These three combined can form an algorithm. Let's look at an example: a recipe. 
@@ -35,12 +35,22 @@ Software Engineering
 ********************
 Software engineering is at its core the **translation of instructions to something a computer can understand**. Once the set of instructions or algorithms is defined above, the usage of computer languages is relatively straight forward. 
 
-* Objects
+* Objects/Data Structures
 * Functions
-* Data Structures
+* Recursion
+
 
 Version Control
 ------
+When you are writing code, saving often is a good way to make sure that your progress isn't lost. However, what if you decided to try something, but it didn't work out the way you had hoped to? Version control will allow you to revert back to not just what you saved previously, but every version that you saved! That way, you can go back to any version of code that you had previously. `Git <https://git-scm.com/>`_ (the computer version), `Github <https://github.com/>`_ ,  and `Gitlab <https://about.gitlab.com/>`_ (both web based versions) are primary examples of easy to use version control software. For help in setting version control up as well as a better introduction, https://try.github.io/ should help.
+
+Best Practices
+-------
+1. Use version control
+2. Test often and early
+3. Plan out your code structure beforehand
+4. Use comments! Document your code so that other people who read it can understand what you are trying to do.
+
 
 
 Resources

@@ -31,13 +31,13 @@ The primary feature of this kit is the inclusion of two different autopilots. Bo
      - 1
    * - 
      - Motors
-     - 8
+     - 6
    * - 
      - Electronic Speed Controller
-     - 8
+     - 4
    * - 
      - Propellers
-     - 8
+     - 6
    * - 
      - LiPo Batteries (3S 2000mAh)
      - 2

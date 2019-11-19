@@ -39,7 +39,7 @@ Let's begin by looking at each of the systems onboard the quadcopter. We can cla
 
 * Action: Motors, servos, mechanism
 
-.. image:: ../source/Pictures/quad_system_overview.jpg
+.. image:: ../source/Pictures/quad_system_overview.png
    :width: 300px
    :height: 200px
    :align: center

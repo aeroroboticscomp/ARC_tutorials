@@ -8,7 +8,7 @@ Systems Overview
 
 The overall system diagram is shown in the below picture:
 
-.. image:: ../source/Pictures/quad_system_overview.jpg
+.. image:: ../source/Pictures/quad_system_overview.png
    :width: 300px
    :height: 200px
    :align: center

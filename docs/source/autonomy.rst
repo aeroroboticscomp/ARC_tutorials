@@ -39,6 +39,11 @@ Let's begin by looking at each of the systems onboard the quadcopter. We can cla
 
 * Action: Motors, servos, mechanism
 
+.. image:: ../source/Pictures/quad_system_overview.jpg
+   :width: 300px
+   :height: 200px
+   :align: center
+
 Human Being
 -----------
 Like many things that humans have designed and built, they are often modeled after the creator: human beings. You can distinctly define which parts of humans are which using the framework described above.

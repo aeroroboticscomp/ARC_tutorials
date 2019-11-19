@@ -8,7 +8,10 @@ Systems Overview
 
 The overall system diagram is shown in the below picture:
 
-[show diagram]
+.. image:: ../source/Pictures/quad_system_overview.jpg
+   :width: 300px
+   :height: 200px
+   :align: center
 
 All these individual components were introduced in the Drone 101 page. This diagram shows how the individual components are connected to each other. 
 

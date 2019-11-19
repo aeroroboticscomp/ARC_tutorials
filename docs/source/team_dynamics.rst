@@ -53,7 +53,10 @@ Create a Budget
 
 The first step of financial planning is creating a budget for the project. To create a budget, it is important that the team understands all of what will be required to complete the project. This may require the team spending time discussing what supplies will be needed and the cost of such supplies. Other costs such as travel, team building (if sponsored by team), and other supplies the team may choose, like t-shirts, should be accounted for in the budget. A sample budget for a team building an RC aircraft is below. 
 
-[insert budget]
+.. image:: ../source/Pictures/budget.jpg
+   :width: 300px
+   :height: 200px
+   :align: center
 
 Note the following on the sample budget: 
 

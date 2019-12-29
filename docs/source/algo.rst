@@ -126,4 +126,12 @@ Advanced
 2019-2020 Competition Specific Material
 *****************
 
-Coming soon!
+Example code for the competition can be found here: https://github.com/aeroroboticscomp/ARC-example. 
+
+THe primary task for teams is to create a computer program that will allow teams to determine the optimal path to traverse the waypoints. In past years, we have asked teams to come up with a program that will compute the path, transfer the path to the drone, and then have the drone execute the mission. However, this year, we are only asking teams to compute the path. Therefore, teams should focus on designing a computer program to do so.
+
+In the github link at the top, the 2019-2020 folder contains the example code that are contained as well as example mini-lessons on coding to help teams get started and understand how code can be written. All of these are made in Python; however, teams are NOT required to use Python. Any non-GUI based programming language would suffice (ex. C, C++, Java, Perl, FORTRAN, etc.) . 
+
+NOTE: For Python users, Jupyter notebooks and equivalents are allowed. Please email ARC Staff if you have any questions. 
+
+To help with getting started on the tasks and learning, please see the Mini-Lessons page that has been created. 

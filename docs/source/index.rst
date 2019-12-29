@@ -18,6 +18,7 @@ This website was built to collect all the information/knowledge/experience neede
    Aerospace Sciences <aero>
    Software <software>
    Programming <algo>
+   Mini Lessons <mini-lessons>
    Hardware <hardware>
    Autonomy <autonomy>
    Integration <integration>

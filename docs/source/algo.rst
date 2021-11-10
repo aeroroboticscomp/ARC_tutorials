@@ -14,7 +14,7 @@ This section is divided into two sections: Algorithms and Software Engineering. 
 
 It is impossible to teach everything there is about computer programming in a single web-page, so this page summarizes the important points that teams should understand and utilize to compete in the competition. Additional resources are given in the Resources section.
 
-Finally, a walkthrough of the example code is given in the 2019-2020 Competition Specific Material section. The hope is that teams can use that example code as a starting point for developing their own path-planning code as outlined in the competition rules.
+Finally, a walkthrough of the example code is given in the 2021-2022 Competition Specific Material section. The hope is that teams can use that example code as a starting point for developing their own path-planning code as outlined in the competition rules.
 
 Algorithms
 **********

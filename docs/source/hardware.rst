@@ -1,6 +1,8 @@
 Kit Hardware
 =========================================
 
+Note: The 2021-2022 kit hardware is still being finalized. Below, you can find the overview of the 2019-2020 kit, which should be similar to this year's kit, and can be used as a starting point.
+
 This is a brief run-down on the components that will be found when you open the kit box.
 
 .. image:: ../source/Pictures/unwrapped.jpg

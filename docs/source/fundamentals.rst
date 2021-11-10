@@ -4,11 +4,11 @@ Fundamentals
 ==============
 
 
-NOTE: This information is only applicable for the 2019-2020 competition
+NOTE: This information is only applicable for the 2021-2022 competition
 
 Competition
 **********
-This year's competition continues to involve three portions of the contest: technical presentation, semi-autonomous, and autonomous flight rounds. The competition rules can be found here: `Rules <https://www.aeroroboticscomp.com/Files/ARC_2019-2020_RuleBook_v1.pdf>`_
+This year's competition continues to involve three portions of the contest: technical presentation, semi-autonomous, and autonomous flight rounds. The competition rules can be found here: `Rules <https://drive.google.com/file/d/1SzcAJrZ7H2ip-yEDGuqcqptYJDiAmbsZ/view>`_
 
 
 
@@ -59,7 +59,7 @@ The primary feature of this kit is the inclusion of two different autopilots. Bo
    * - 
      - LiPo Bags
      - 1
-The above table is a headlined summary of the kit. A more detailed kit description can be found in this Google sheet: `Kit details <https://docs.google.com/spreadsheets/d/1OFnF_KtopMiuY4cxXH7TMvPYY3TsQOsukVVnuOryIEE/edit#gid=0>`_
+The above table is a headlined summary of the kit. A more detailed kit description will be available soon.
 
 Please let us know if certain components are missing from your kit. Please check that your team has all the items required to compete! Teams should receive their kits by the end of October/beginning of November once the staff has verified that the first payment has come through.
 
@@ -77,5 +77,5 @@ If a team decides they no longer want to participate they are simply asked to se
 
 **INSTRUCTIONS FOR PAYING REGISTRATION/KIT FEES**
 
-Please click the link to your respective state to find more information about paying: `Florida <https://www.aeroroboticscomp.com/finance_FL.html>`_ or `California <https://www.aeroroboticscomp.com/finance_CA.html>`_
+Please visit the `main competition page <https://www.aeroroboticscomp.com/compete>`_ to find more information about paying.
 

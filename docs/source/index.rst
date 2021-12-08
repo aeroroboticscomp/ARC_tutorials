@@ -18,6 +18,7 @@ This website was built to collect all the information/knowledge/experience neede
    Aerospace Sciences <aero>
    Software <software>
    Programming <algo>
+   DroneBlocks <droneblocks>
    Mini Lessons <mini-lessons>
    Hardware <hardware>
    Autonomy <autonomy>
@@ -25,6 +26,7 @@ This website was built to collect all the information/knowledge/experience neede
    Team Dynamics <team_dynamics>
    Safety <safety>
    Flying/Testing <flite_test>
+   Technical Communication <techcomm>
    Contact <contact>
 
 ..

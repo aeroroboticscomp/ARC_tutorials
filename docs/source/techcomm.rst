@@ -39,7 +39,7 @@ Slides:
 
 Here are some general guidelines for the slides that teams will submit as a PDF.
 
-***Do:***
+**Do:**
 
 - Make sure your words are legible!
 
@@ -66,7 +66,7 @@ Here are some general guidelines for the slides that teams will submit as a PDF.
 - Submit as a PDF. This is required for ARC but is good for all documents. Formatting can change between different softwares and different computers, and some documents can’t even be opened on different computers (for example, Apple’s Slides can often only be opened on Mac computers, not computers running a Windows system).
 
 
-***Don’t:***
+**Don’t:**
 
 - Use full sentences or paragraphs on the slides. Too many words make slides busy and distracting, and your audience will be trying to read the paragraph instead of listening to what you’re saying, or skim over words and miss important points.
 
@@ -85,7 +85,7 @@ Speaking:
 
 Here are some guidelines to follow when teams are actively speaking and presenting their slides:
 
-***Do:***
+**Do:**
 
 - Speak clearly.
 
@@ -99,7 +99,7 @@ Here are some guidelines to follow when teams are actively speaking and presenti
 
 
 
-***Don’t:***
+**Don’t:**
 
 - Read directly off the slides. It’s okay to use the information on the slides to help structure you want to say, but you should say more than what’s on the slides (aka use the bullet points as a jumping-off point for full sentences/paragraphs). Don’t just read the slides word-for-word.
 

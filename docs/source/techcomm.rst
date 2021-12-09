@@ -1,3 +1,6 @@
+Technical Communication
+======================
+
 What is technical communication?
 ````
 

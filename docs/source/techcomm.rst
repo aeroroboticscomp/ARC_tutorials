@@ -2,17 +2,17 @@ Technical Communication
 ======================
 
 What is technical communication?
-````
+*********
 
 Technical communication is, at its core, a means of conveying technical information. It’s used primarily to make it easier to share a technical or complicated topic in an accessible way for a specific audience, especially in scientific and engineering fields. In the case of ARC, the topics include the mechanisms the teams design, the approach the teams take to programming the drones, and other engineering decisions made in the process of completing the tasks. The specific audience is the panel of judges (usually from engineering and/or aerospace backgrounds) reviewing the teams’ presentations.
 
 Methods of technical communication
-````
+*********
 
 Technical communication can range from users’ manuals to technical papers to patents. For ARC, teams are expected to create and present a presentation that addresses the topics assigned.
 
 Presentation content
-````
+*********
 
 When you’re sharing technical information with other people, you generally want to answer a few questions: 
 
@@ -26,7 +26,7 @@ When you’re sharing technical information with other people, you generally wan
 Note that these questions are usually starting points - there are often other points to address as well! For ARC, the rulebook (in the appendices) includes a list of all the information we expect to see in your slides. The judges will be looking for each of these topics to be addressed, so make sure you check that you talk about everything!
 
 Presentation style best practices
-````
+*********
 
 Technical communication isn’t just about what you say - it’s also about how you say it. In fact, how you get your information across is one of the more important parts of technical communication. If you have a lot of good information, but can’t effectively share it with other people, then it’s hard to make that information accessible.
 
